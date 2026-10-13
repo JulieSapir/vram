@@ -1,0 +1,5 @@
+pattern 0: bad sectors 23840 / 524288 (4.55%)
+pattern 1: bad sectors 23840 / 524288 (4.55%)
+pattern 2: bad sectors 23840 / 524288 (4.55%)
+sectors bad in all 3 runs: 23840, bad in any: 23840, identical garbage block count: 70312
+garbage: 264d609e d3fbffe6 b8a48005 71802891 65765d59 ff7a39ae 076be740 10b5f90e 

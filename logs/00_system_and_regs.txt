@@ -1,0 +1,9 @@
+Linux ubuntu 7.0.0-31-generic #31~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Mon Aug 10 09:38:02 UTC 2 x86_64 x86_64 x86_64 GNU/Linux
+BOOT_IMAGE=/casper/vmlinuz --- quiet splash
+               total        used        free      shared  buff/cache   available
+Mem:          128721        5624      115381        1586       10152      123096
+Swap:              0           0           0
+000000 = 162000a1
+100ce0 = 000002c9
+022438 = 00000006
+022554 = badf5040

@@ -1,0 +1,1 @@
+bad sectors=2368  partially-bad=0  changing-between-reads=0
